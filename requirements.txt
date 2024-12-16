@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+numpy
+PyMuPDF
+pytesseract
+matplotlib
+scikit-image
+Pillow
